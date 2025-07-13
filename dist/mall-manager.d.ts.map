@@ -1,1 +1,0 @@
-{"version":3,"file":"mall-manager.d.ts","sourceRoot":"","sources":["../mall-manager.ts"],"names":[],"mappings":"AAGA,OAAO,EAAE,IAAI,EAAE,MAAM,iBAAiB,CAAC;AAEvC,cAAM,WAAW;IACf,OAAO,CAAC,KAAK,CAAc;IAG3B,OAAO,CAAC,IAAI,EAAE,IAAI,GAAG,IAAI;IAMzB,YAAY,IAAI,IAAI;IAKpB,aAAa,IAAI,IAAI;IAKrB,WAAW,IAAI,IAAI;CAIpB;AAED,OAAO,EAAE,WAAW,EAAE,CAAC"}
