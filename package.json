@@ -1,0 +1,30 @@
+{
+  "name": "solid-principles-shopping-mall",
+  "version": "1.0.0",
+  "description": "Interactive demo showing SOLID principles using a shopping mall example",
+  "main": "dist/demo.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && node dist/demo.js",
+    "dev": "ts-node demo.ts",
+    "clean": "rm -rf dist",
+    "demo": "npm run build && node dist/demo.js"
+  },
+  "keywords": [
+    "solid",
+    "principles",
+    "typescript",
+    "demo",
+    "shopping-mall"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
