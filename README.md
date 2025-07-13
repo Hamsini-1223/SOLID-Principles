@@ -17,7 +17,7 @@ This project provides practical examples of all five SOLID principles:
 ```bash
 # Clone the repository
 git clone https://github.com/Hamsini-1223/SOLID-Principles
-cd Singleton
+cd SOLID-Princples
 
 # Install dependencies
 npm install
