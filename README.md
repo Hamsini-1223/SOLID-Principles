@@ -1,6 +1,13 @@
 # SOLID Principles Shopping Mall Demo
 
-A TypeScript application demonstrating SOLID principles through a shopping mall management system.
+A TypeScript application demonstrating SOLID principles through a shopping mall management system. This application includes and explains 
+- Single Responsibility Principle
+- Open/Closed Principle
+- Liskov Substitution Principle
+The other 2 principles are explain in the blow mentioned repository:
+```
+https://github.com/Hamsini-1223/SOLID
+```
 
 ## Overview
 
